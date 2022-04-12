@@ -1,5 +1,6 @@
 import React from 'react'
 import Typical from 'react-typical'
+import "./Profile.css"
 
 export default function Profile() {
   return (
@@ -32,7 +33,7 @@ export default function Profile() {
                 </span>
             </div>
 
-            <div className='profile-detailsd-role'>
+            <div className='profile-details-role'>
                 <span className='primary-text'>
                     {" "}
                     <h1>
